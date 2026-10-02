@@ -1,7 +1,11 @@
 
 # Angular - Base essential
 
-An App Angular scaffolding base, minimal tech layering needed.
+A base scaffold for Angular applications that requires minimal implementation of 3-pary libraries.
+*Una estructura base para aplicaciones Angular que requiere una implementación mínima de librerías de terceros.*
+
+Minimal stable, readable, scalable, self document easy mantenible base structure.
+*Estructura base mínima, estable, legible, escalable, autodocumentada y de fácil mantenimiento.*
 
 We'll Start with "[Build your first Angular app](https://v17.angular.io/tutorial/first-app/first-app-lesson-14)" app from the [Angular official site](https://angular.dev/) and a [repository own](https://github.com/ricardobeltranpaez/webapp-crud-node-base-mvc) Express Js based uses for CMS type admin and API server.
 
